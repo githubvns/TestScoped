@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Test Management" max_length="40" name="x_nbnl_nbn_app_test_management" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Test USer" max_length="40" name="test_user" type="string"/>
+    </element>
+</database>
